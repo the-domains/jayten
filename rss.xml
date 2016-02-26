@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[jayten]]></title>
+        <description><![CDATA[jayten]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 26 Feb 2016 20:53:25 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Snow run/schnee Laufen]]></title>
+            <description><![CDATA[<article><h1>Snow run/schnee Laufen</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c2d8f591-11e3-476d-b5fe-8801dc37affc.png"></article>]]></description>
+            <link>undefinedsnow-runschnee-laufen/index.html</link>
+            <guid isPermaLink="false">4cb16e73-4061-45fc-b806-f0beb654366e</guid>
+            <pubDate>Fri, 26 Feb 2016 20:52:27 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
