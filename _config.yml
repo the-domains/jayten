@@ -1,8 +1,24 @@
+name: jayten
+favicon: null
 layout_spectrum: 0.2236842
+typography_spectrum: 0.2738095
+title: jayten
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0
+  brandColors: []
   brandStrength: 0.3454018
   lightness: 0
+  saturation: 0
   rhythmicContrast: 0.4373434
-typography_spectrum: 0.2738095
-name: jayten
+purpose: []
