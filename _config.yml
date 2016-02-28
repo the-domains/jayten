@@ -1,5 +1,8 @@
+name: jayten
+favicon: null
+layout_spectrum: 0.7293907
+typography_spectrum: 0.47336
 title: null
-purpose: []
 collections:
   - index:
       path: /
@@ -12,25 +15,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-color:
-  saturation: 1
-  brandStrength: 0.3454018
-  lightness: 0
-  brandColors: []
-  rhythmicContrast: 0.4373434
 cta:
+  domain: null
   bucket: null
   version: null
-  domain: null
 analytics:
-  twitter: null
   google: null
   facebook: null
-favicon: null
-name: jayten
+  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0.47336
-layout_spectrum: 0.7293907
+color:
+  brandColors:
+    - '#f7f6f4'
+    - '#524c4e'
+    - '#0e121d'
+    - '#c5bab6'
+    - '#948781'
+  brandStrength: 1
+  lightness: 0.9375
+  saturation: 0.4375
+  rhythmicContrast: 1
+purpose: []
