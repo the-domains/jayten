@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[jayten]]></title>
         <description><![CDATA[jayten]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/jayten/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 26 Feb 2016 20:53:25 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 28 Feb 2016 11:59:49 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jayten/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Snow run/schnee Laufen]]></title>
-            <description><![CDATA[<article><h1>Snow run/schnee Laufen</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c2d8f591-11e3-476d-b5fe-8801dc37affc.png"></article>]]></description>
-            <link>undefinedsnow-runschnee-laufen/index.html</link>
+            <description><![CDATA[<article><h1>Snow run/schnee Laufen</h1><p>Somewhere sometime recently.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/29d81ea49e067e7429e017bede44b0161300d179.png"></article>]]></description>
+            <link>urn:uuid:85c624ff-d543-4fec-9936-e0d4f6a98396</link>
             <guid isPermaLink="false">4cb16e73-4061-45fc-b806-f0beb654366e</guid>
-            <pubDate>Fri, 26 Feb 2016 20:52:27 GMT</pubDate>
+            <pubDate>Sun, 28 Feb 2016 11:59:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
