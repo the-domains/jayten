@@ -15,9 +15,9 @@ collections:
 color:
   saturation: 0
   brandStrength: 0.3454018
-  rhythmicContrast: 0.4373434
+  lightness: 1
   brandColors: []
-  lightness: 0
+  rhythmicContrast: 0.4373434
 cta:
   bucket: null
   version: null
@@ -26,8 +26,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: jayten
 favicon: null
+name: jayten
 opengraph:
   image: null
   type: null
