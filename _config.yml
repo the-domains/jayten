@@ -1,6 +1,6 @@
 name: jayten
 favicon: null
-layout_spectrum: 0.7293907
+layout_spectrum: 0.73366
 typography_spectrum: 0.47336
 title: null
 collections:
@@ -29,13 +29,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#f7f6f4'
-    - '#524c4e'
-    - '#0e121d'
-    - '#c5bab6'
-    - '#948781'
-  brandStrength: 1
-  lightness: 1
-  saturation: 1
+    - '#ffffff'
+    - '#717679'
+    - '#ff961e'
+    - '#28292e'
+    - '#ec3800'
+  brandStrength: 0.25
+  lightness: 0.0625
+  saturation: 0
   rhythmicContrast: 1
 purpose: []
